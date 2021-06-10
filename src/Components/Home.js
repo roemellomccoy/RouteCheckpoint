@@ -6,24 +6,24 @@ const newsArticles = [
     article: "There are many ways to do so...but the best is just try, try, try again!"
   },
   {
-    title: "Winning at Life!",
-    article: "There are many ways to do so...but the best is just try, try, try again!"
+    title: "Losing at Life",
+    article: "There are many ways to do so...but the best is just give up"
   },
   {
-    title: "Winning at Life!",
-    article: "There are many ways to do so...but the best is just try, try, try again!"
+    title: "React with a twist",
+    article: "React is interesting and helps create fulls applications with minimal effort"
   },
   {
-    title: "Winning at Life!",
-    article: "There are many ways to do so...but the best is just try, try, try again!"
+    title: "The Spaceforce SDI takes over",
+    article: "Students from the Spaceforce SDI cohort have taken over the web development job market"
   },
   {
-    title: "Winning at Life!",
-    article: "There are many ways to do so...but the best is just try, try, try again!"
+    title: "Spaceforce finally changes their ranks",
+    article: "The Spaceforce has gotten rid of their generic ranks and adobted Jedi ranks"
   },
   {
-    title: "Winning at Life!",
-    article: "There are many ways to do so...but the best is just try, try, try again!"
+    title: "Spaceforce adds their first outer space base",
+    article: "The spaceforce has launched their spacestation base and Guardians have been assigned to the base for the first time"
   }
 ]
 
